@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=xPos\ yPos\ icon\ canMove\ ground\ objectMatrix\ gridDisplay\ player
+comment0.target=FieldObject(int,\ int,\ java.awt.image.BufferedImage,\ boolean,\ java.awt.image.BufferedImage,\ FieldObject[][],\ java.awt.image.BufferedImage[][],\ Player)
+comment1.params=direction
+comment1.target=void\ moveUntilStop(int)
+comment1.text=\r\n\ moves\ the\ FieldObject\ in\ a\ desired\ direction\ until\ it\ hits\ an\ impassable\ object.\r\n
+comment2.params=direction\ numSquares
+comment2.target=void\ moveNumSquares(int,\ int)
+comment2.text=\r\n\ Moves\ a\ FieldObject\ a\ certain\ number\ of\ squares\ or\ until\ it\ reaches\ an\ impassable\ object.\r\n
+comment3.params=direction
+comment3.target=void\ moveObject(int)
+comment3.text=\r\n\ Moves\ a\ FieldObject\ one\ square\ in\ a\ desired\ direction.\r\n
+numComments=4

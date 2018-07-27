@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=xPos\ yPos\ icon\ ground\ objectMatrix\ player\ gridDisplay\ field
+comment0.target=Grunt(int,\ int,\ java.awt.image.BufferedImage,\ java.awt.image.BufferedImage,\ FieldObject[][],\ Player,\ java.awt.image.BufferedImage[][],\ Field)
+comment1.params=
+comment1.target=void\ run()
+comment1.text=\r\n\ Thread\ checks\ players\ position\ and\ then\ moves\ towards\ player\r\n
+numComments=2

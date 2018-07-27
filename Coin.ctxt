@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=xPos\ yPos\ icon\ ground\ objectMatrix\ gridDisplay\ player
+comment0.target=Coin(int,\ int,\ java.awt.image.BufferedImage,\ java.awt.image.BufferedImage,\ FieldObject[][],\ java.awt.image.BufferedImage[][],\ Player)
+comment1.params=
+comment1.target=void\ run()
+comment1.text=\r\n\ Thread\ checks\ to\ see\ if\ a\ player\ occupies\ the\ same\ space\r\n\ if\ so,\ it\ deletes\ itself\ and\ gives\ a\ coin\ to\ player\r\n
+comment2.params=
+comment2.target=void\ deleteCoin()
+comment2.text=\r\n\ removes\ coin\ from\ the\ field\r\n
+numComments=3

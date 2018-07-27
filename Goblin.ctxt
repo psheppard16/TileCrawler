@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=xPos\ yPos\ icon\ health\ ground\ objectMatrix\ player\ gridDisplay\ field
+comment0.target=Goblin(int,\ int,\ java.awt.image.BufferedImage,\ int,\ java.awt.image.BufferedImage,\ FieldObject[][],\ Player,\ java.awt.image.BufferedImage[][],\ Field)
+comment1.params=
+comment1.target=void\ killObject()
+comment1.text=\r\n\ Removes\ the\ object\ from\ the\ field\ and\ sets\ variables\ to\ null.\r\n
+numComments=2

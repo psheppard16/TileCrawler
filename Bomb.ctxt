@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=xPos\ yPos\ icon\ direction\ ground\ objectMatrix\ gridDisplay\ player
+comment0.target=Bomb(int,\ int,\ java.awt.image.BufferedImage,\ int,\ java.awt.image.BufferedImage,\ FieldObject[][],\ java.awt.image.BufferedImage[][],\ Player)
+comment1.params=
+comment1.target=void\ run()
+comment1.text=\r\n\ Thread\ moves\ the\ bomb\ until\ it\ hits\ an\ impassable\ object,\ at\ which\ point\ it\ explodes\ after\ 1.5\ seconds\r\n\ and\ hurts\ the\ player\ if\ they\ are\ within\ 3\ x\ 3\ around\ the\ bomb\r\n
+numComments=2
