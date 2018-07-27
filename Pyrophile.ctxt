@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=xPos\ yPos\ icon\ ground\ objectMatrix\ player\ gridDisplay\ bombList\ field
+comment0.target=Pyrophile(int,\ int,\ java.awt.image.BufferedImage,\ java.awt.image.BufferedImage,\ FieldObject[][],\ Player,\ java.awt.image.BufferedImage[][],\ java.util.ArrayList,\ Field)
+comment1.params=
+comment1.target=void\ newBombSet()
+comment1.text=\r\n\ creates\ bombs\ moving\ in\ 4\ different\ directions\r\n
+comment2.params=
+comment2.target=void\ run()
+comment2.text=\r\n\ Thread\ creates\ a\ set\ of\ bombs\ every\ 2\ seconds\ and\ checks\ to\ see\ if\ it\ has\ died\r\n\ if\ it\ has\ died\ it\ removes\ itself\ from\ the\ field\r\n
+numComments=3

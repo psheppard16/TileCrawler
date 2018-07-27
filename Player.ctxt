@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=saveFile
+comment0.target=Player(java.lang.String[])
+comment1.params=
+comment1.target=void\ run()
+comment2.params=
+comment2.target=void\ run()
+comment3.params=
+comment3.target=void\ run()
+comment3.text=\r\n\ while\ the\ player\ is\ alive,\ checks\ to\ see\ if\ enemies\ are\ overlapping\ with\ the\ player\r\n\ if\ an\ enemy\ is,\ subtracts\ one\ health\ from\ player.\ \r\n
+comment4.params=direction
+comment4.target=void\ swordStab(int)
+comment4.text=\r\n\ Subtracts\ one\ health\ from\ enemies\ in\ the\ given\ direction\r\n\ then\ starts\ the\ cooldown\ timer.\r\n
+comment5.params=
+comment5.target=void\ whirlWind()
+comment5.text=\r\n\ Subtracts\ one\ health\ from\ enemies\ in\ the\ squares\ surrounding\ the\ player\r\n\ then\ starts\ a\ cooldown\ timer.\r\n
+comment6.params=
+comment6.target=void\ openShop()
+comment6.text=\r\n\ Opens\ sub-menu\ in\ the\ shop\ which\ allows\ user\ to\ buy\ the\ various\ items\r\n
+numComments=7
